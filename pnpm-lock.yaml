@@ -23,8 +23,8 @@ dependencies:
     specifier: 1.3.0
     version: 1.3.0
   '@ffmpeg.wasm/core-mt':
-    specifier: 0.12.0
-    version: 0.12.0
+    specifier: 0.13.2
+    version: 0.13.2
   '@ffmpeg.wasm/main':
     specifier: 0.12.0
     version: 0.12.0
@@ -791,8 +791,8 @@ packages:
     resolution: {integrity: sha512-J8TOSBq3SoZbDhM9+R/u77hP93gz/rajSA+K2kGyijPpORPWUXHUpTaleoj+92As0S9uPRP7Oi8IqMf0u+ro6A==}
     dev: false
 
-  /@ffmpeg.wasm/core-mt@0.12.0:
-    resolution: {integrity: sha512-M9pjL7JQX4AYl3WI8vGcPGPTz/O7JmhW8ac/fHA3oXTxoRAPwYSY/OsY1N9C0XahIM0+fxa1QSLN9Ekz8sBM/Q==}
+  /@ffmpeg.wasm/core-mt@0.13.2:
+    resolution: {integrity: sha512-3UgpMoOhpTslxluDvBrh0MULeNy55W+WWG00P+JnnCLpJulQxgi6mnIuGO03d2sfV5pyW/FqAwut+fiMLbRsPg==}
     dev: false
 
   /@ffmpeg.wasm/main@0.12.0:

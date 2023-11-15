@@ -130,7 +130,7 @@
     "@cliqz/adblocker-electron-preload": "1.26.12",
     "@fastify/deepmerge": "1.3.0",
     "@ffmpeg.wasm/core-mt": "0.12.0",
-    "@ffmpeg.wasm/main": "0.12.0",
+    "@ffmpeg.wasm/main": "0.13.1",
     "@foobar404/wave": "2.0.4",
     "@jellybrick/electron-better-web-request": "1.0.4",
     "@jellybrick/mpris-service": "2.1.4",
